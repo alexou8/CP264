@@ -1,0 +1,46 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * -------------------------------------
+ * @author Zi Feng (Alex) Ou, 169025748, ouxx5748@mylaurier.ca
+ *
+ * @version 2025-05-12
+ *
+ * -------------------------------------
+ */
+Results:
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+no parameter string:
+Program Parameters:
+
+  No user parameters specified.
+
+  Argument 0 is a system default, and is always passed to the main program.
+  Argument 0 is the path and name of the executable file.
+
+  argc: 1
+  argv[0] = "/cygdrive/c/Users/Ouale/eclipse/ws/CP264/ouxx5748_l01/Debug/ouxx5748_l01"
+
+the parameter string: A 1 "some strings"
+Program Parameters:
+
+  argc: 4
+
+  argv[0] = "/cygdrive/c/Users/Ouale/eclipse/ws/CP264/ouxx5748_l01/Debug/ouxx5748_l01"
+  argv[1] = "A"
+  argv[2] = "1"
+  argv[3] = "some strings"
+
+the parameter string: B 2 some strings
+Program Parameters:
+
+  argc: 5
+
+  argv[0] = "/cygdrive/c/Users/Ouale/eclipse/ws/CP264/ouxx5748_l01/Debug/ouxx5748_l01"
+  argv[1] = "B"
+  argv[2] = "2"
+  argv[3] = "some"
+  argv[4] = "strings"
+-------------------------------------------------------
